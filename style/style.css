@@ -1,0 +1,77 @@
+.container{
+    position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+    height: 550px;
+    width: 550px;
+}
+
+.roulette-container{
+    margin: auto;
+    height: 370px;
+    width: 370px;
+}
+
+#myChart {
+    background: url("../1.png") no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+    height: 370px;
+    width: 370px;
+
+  }
+
+
+  .idround{
+        text-align: center;
+  }
+  
+  
+.container-2{
+    position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+
+}
+
+.layout-container{
+
+}
+
+#RouletteLayout {
+    background: url("../layout3.png") no-repeat;
+    background-size: 100% 100%;
+    margin: auto;
+
+  
+
+  }
+
+
+  .show{
+    
+  }
+
+  .hide{
+    display: none;
+  }
+
+  .mode-btn{
+    display: inline-block;
+    margin-right: 0.5em;
+  }
+
+  .form-check {
+    display: inline-block;
+    margin-bottom: -3px;
+  }
+
+  .switch-button{
+margin-left: 2%;
+margin-top: 2%;
+font-size: 20px;
+text-transform: uppercase;
+
+  }
